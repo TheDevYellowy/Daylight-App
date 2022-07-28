@@ -1,0 +1,20 @@
+{
+  "name": "daylight-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/TheDevYellowy/Daylight.git",
+  "author": "TheDevYellowy",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js-selfbot-v13": "^2.4.6"
+  },
+  "devDependencies": {
+    "electron": "^19.0.9",
+    "electron-builder": "^23.1.0"
+  }
+}
